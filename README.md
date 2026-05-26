@@ -40,7 +40,7 @@ CredentialChain uses Soroban smart contracts:
 ✅ All 5 tests pass
 
 ## Testnet Contract
-- **Contract ID:** `PASTE_YOUR_SOROBAN_STUDIO_CONTRACT_ID_HERE`
+- **Contract ID:** `CCPUHMRVEZ3RMTWO2SMITS4QZZXRCBXTFW4HU4GCCDODRSSONQJQKDB7`
 - **Network:** Stellar Testnet
 
 ## Timeline
